@@ -1,6 +1,8 @@
 # Image to 3D Model Generator
 
 This project generates high-quality 3D meshes from single or multiple images using deep learning techniques.
+<img width="539" height="563" alt="image" src="https://github.com/user-attachments/assets/9571139a-257a-4ae0-acb2-bd702bcbc2ac" />
+
 
 ## Features
 
